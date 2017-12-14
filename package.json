@@ -1,12 +1,12 @@
 {
-  "name": "starte_theme",
+  "name": "starter_grunt_underscore_files",
   "version": "1.0.0",
-  "description": "Starter theme with Thr Gruntfile set UP",
+  "description": "Start Grunt file with the underscore.me configuration",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Pavle Srdic",
+  "author": "Just a random guy",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
